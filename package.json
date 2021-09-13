@@ -1,6 +1,6 @@
 {
   "name": "hyper-theme-atom-material",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Atom Material Theme - based on Atom-Material-Ui and Atom-Material-Syntax",
   "main": "index.js",
   "repository": {
