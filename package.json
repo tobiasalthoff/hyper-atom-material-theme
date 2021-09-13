@@ -1,0 +1,23 @@
+{
+  "name": "hyper-theme-atom-material",
+  "version": "1.0.0",
+  "description": "Atom Material Theme - based on Atom-Material-Ui and Atom-Material-Syntax",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasalthoff/hyper-atom-material-theme.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "atom-material"
+  ],
+  "author": {
+    "name": "tobiasalthoff"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/tobiasalthoff/hyper-atom-material-theme/issues"
+  },
+  "homepage": "https://github.com/tobiasalthoff/hyper-atom-material-theme#readme"
+}
